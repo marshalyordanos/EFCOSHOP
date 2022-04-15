@@ -1,0 +1,24 @@
+{
+  "name": "efcoshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marshalyordanos/EFCOSHOP.git"
+  },
+  "author": "marshal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marshalyordanos/EFCOSHOP/issues"
+  },
+  "homepage": "https://github.com/marshalyordanos/EFCOSHOP#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
