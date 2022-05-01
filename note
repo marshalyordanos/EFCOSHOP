@@ -1,0 +1,5 @@
+npm i colors (red.underline.bold)
+
+npm i express-async-handler
+
+yarn add redux react-react redux-thunk redux devtools-extension
